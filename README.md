@@ -4,7 +4,7 @@ A react app developed using material ui template. This app will be used by farme
 Dashboard
 ![alt text](https://github.com/ihaseebkhan/react-material-ui/blob/master/Dashboard1.png)
 
-![alt text](https://github.com/ihaseebkhan/react-material-ui/blob/master/Dashboard2.png)
+![alt text](https://github.com/ihaseebkhan/react-material-ui/blob/master/dashboard2.png)
 
 Dashboard(Mobile)
 ![alt text](https://github.com/ihaseebkhan/react-material-ui/blob/master/mobile_view.png)
